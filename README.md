@@ -1,1 +1,0 @@
-# Minshel.github.io
