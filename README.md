@@ -9,5 +9,3 @@
 ### Ссылка на полный обзор доступна под обзором в стиме.
 
 # [Curator page/Cтраница куратора](https://store.steampowered.com/curator/45647655-GameCritique/)
-# [gfgg](review/ftf-ironbark.md)
-# [gfdgg](review/ftf-carsonhouse.md)
